@@ -1,2 +1,4 @@
 # Obj-Parsing
-gimme dat html
+The smart way to parse the web
+
+# Coming Soon
